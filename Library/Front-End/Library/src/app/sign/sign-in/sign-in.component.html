@@ -1,0 +1,16 @@
+<h2>{{title}}</h2>
+<p>{{paragraph}}</p>
+<div>
+<form (ngSubmit)="createAccount()">
+    <label for="user">Username</label><br>
+    <input type="text" id="user" name="user" [(ngModel)]="user.name"><br><br>
+    <label for="mail">Email</label><br>
+    <input type="email" id="mail" name="mail" [(ngModel)]="user.mail"><br><br>
+    <label for="pw">Password</label><br>
+    <input type="password" id="pw" name="pw" [(ngModel)]="user.password"><br><br>
+    <label for="pw">Confirm password</label><br>
+    <input type="password" id="pw" name="pw" [(ngModel)]="password"><br><span>{{error}}</span><br>
+
+    <input type="submit" class="send" value="Create">
+</form>
+</div>

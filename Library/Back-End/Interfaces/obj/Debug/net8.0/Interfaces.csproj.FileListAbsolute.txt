@@ -1,0 +1,15 @@
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\bazin\Desktop\Back-End\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\bazin\Desktop\Back-End\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\bazin\Desktop\Back-End\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\bazin\Desktop\Back-End\Interfaces\bin\Debug\net8.0\DTO.dll
+C:\Users\bazin\Desktop\Back-End\Interfaces\bin\Debug\net8.0\DTO.pdb
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\bazin\Desktop\Back-End\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

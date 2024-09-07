@@ -1,0 +1,15 @@
+C:\Users\bazin\Desktop\Back-End\DB\bin\Debug\net8.0\DB.deps.json
+C:\Users\bazin\Desktop\Back-End\DB\bin\Debug\net8.0\DB.dll
+C:\Users\bazin\Desktop\Back-End\DB\bin\Debug\net8.0\DB.pdb
+C:\Users\bazin\Desktop\Back-End\DB\bin\Debug\net8.0\DTO.dll
+C:\Users\bazin\Desktop\Back-End\DB\bin\Debug\net8.0\DTO.pdb
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.csproj.Up2Date
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.dll
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\refint\DB.dll
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\DB.pdb
+C:\Users\bazin\Desktop\Back-End\DB\obj\Debug\net8.0\ref\DB.dll

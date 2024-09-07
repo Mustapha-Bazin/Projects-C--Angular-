@@ -1,0 +1,11 @@
+<h2>{{title}}</h2>
+<p>{{paragraph}}</p>
+<div>
+<form (ngSubmit)="login()">
+    <label for="user">Username</label><br>
+    <input type="text" id="user" name="user" [(ngModel)]="user.userName"><br><br>
+    <label for="pw">Password</label><br>
+    <input type="password" id="pw" name="pw" [(ngModel)]="user.password"><br><br>
+    <input type="submit" class="send" value="Accedi">
+</form>
+</div>
